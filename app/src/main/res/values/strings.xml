@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">temperatureconverter</string>
+    <string-array name="spinnerlist">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
+
+</resources>
